@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.tomp2p</groupId>
 	<artifactId>opus-wrapper</artifactId>
-	<version>1.4-SNAPSHOT</version>
+	<version>1.4</version>
 
 	<scm>
 		<url>https://github.com/tbocek/opus-wrapper/OpusWrapper</url>
