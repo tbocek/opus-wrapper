@@ -1,4 +1,4 @@
-Java Opus 1.3 Wrapper
+Java Opus Wrapper
 =====================
 
 This wrapper was created with https://code.google.com/p/jnaerator/ and sligthly adapted.
